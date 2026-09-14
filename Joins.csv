@@ -1,0 +1,151 @@
+CUSTOMER_ID,CUSTOMER_NAME,ORDER_ID,PRODUCT_ID,CATEGORY,PRODUCT_NAME,REVENUE
+C016,Naledi Ndlovu,O0001,P016,Beauty,Shampoo,2494.64
+C013,Zanele Mbeki,O0002,P004,Electronics,USB-C Cable,606.84
+C023,Pieter Coetzee,O0003,P014,Fashion,Sunglasses,2623.40
+C047,Johan Mahlangu,O0004,P002,Electronics,Wireless Earbuds,585.66
+C004,Thabo Van der Merwe,O0005,P013,Fashion,Backpack,1350.24
+C007,Naledi Naidoo,O0006,P008,Home,Desk Lamp,176.10
+C035,Ayanda Coetzee,O0007,P015,Fashion,Cap,1567.56
+C012,Aisha Fourie,O0008,P009,Home,Storage Box,1745.56
+C005,Michael Els,O0009,P015,Fashion,Cap,1959.45
+C007,Naledi Naidoo,O0010,P002,Electronics,Wireless Earbuds,2928.30
+C001,Zanele Nkosi,O0011,P003,Electronics,Power Bank,715.30
+C011,Nomvula Coetzee,O0012,P014,Fashion,Sunglasses,2623.40
+C014,Ayanda Mokoena,O0013,P013,Fashion,Backpack,450.08
+C011,Nomvula Coetzee,O0014,P013,Fashion,Backpack,1800.32
+C017,Naledi Coetzee,O0015,P015,Fashion,Cap,1567.56
+C045,Grace Van der Merwe,O0016,P018,Beauty,Perfume,3560.60
+C010,Zanele Van der Merwe,O0017,P007,Home,Throw Blanket,1478.10
+C004,Thabo Van der Merwe,O0018,P019,Beauty,Lip Balm,5341.35
+C004,Thabo Van der Merwe,O0019,P011,Fashion,Sneakers,155.49
+C038,Chloe Nkosi,O0020,P016,Beauty,Shampoo,3118.30
+C011,Nomvula Coetzee,O0021,P002,Electronics,Wireless Earbuds,2928.30
+C006,David Fourie,O0022,P006,Home,Coffee Mug,3501.95
+C005,Michael Els,O0023,P008,Home,Desk Lamp,88.05
+C037,Zanele Mokoena,O0024,P008,Home,Desk Lamp,440.25
+C003,Sipho Els,O0025,P020,Beauty,Face Mask,2901.44
+C043,Karabo Nkosi,O0026,P019,Beauty,Lip Balm,5341.35
+C021,Naledi Dlamini,O0027,P009,Home,Storage Box,2618.34
+C016,Naledi Ndlovu,O0028,P009,Home,Storage Box,1745.56
+C043,Karabo Nkosi,O0029,P010,Home,Kitchen Scale,437.82
+C049,David Mbeki,O0030,P003,Electronics,Power Bank,1430.60
+C040,Michael Els,O0031,P019,Beauty,Lip Balm,1068.27
+C035,Ayanda Coetzee,O0032,P007,Home,Throw Blanket,2217.15
+C009,Kagiso Dlamini,O0033,P012,Fashion,Denim Jacket,115.18
+C016,Naledi Ndlovu,O0034,P012,Fashion,Denim Jacket,230.36
+C029,Kagiso Fourie,O0035,P018,Beauty,Perfume,2670.45
+C040,Michael Els,O0036,P017,Beauty,Moisturizer,3419.70
+C020,Sipho Els,O0037,P004,Electronics,USB-C Cable,303.42
+C017,Naledi Coetzee,O0038,P004,Electronics,USB-C Cable,151.71
+C048,Lerato Mokoena,O0039,P018,Beauty,Perfume,2670.45
+C019,Nomvula Pretorius,O0040,P020,Beauty,Face Mask,2176.08
+C014,Ayanda Mokoena,O0041,P009,Home,Storage Box,3491.12
+C017,Naledi Coetzee,O0042,P002,Electronics,Wireless Earbuds,2342.64
+C018,Kagiso Naidoo,O0043,P002,Electronics,Wireless Earbuds,1756.98
+C050,Fatima Sithole,O0044,P005,Electronics,Smart Watch,310.68
+C011,Nomvula Coetzee,O0045,P015,Fashion,Cap,1567.56
+C036,Ayanda Ndlovu,O0046,P001,Electronics,Bluetooth Speaker,1087.57
+C045,Grace Van der Merwe,O0047,P005,Electronics,Smart Watch,103.56
+C024,Aisha Ndlovu,O0048,P019,Beauty,Lip Balm,2136.54
+C028,Naledi Fourie,O0049,P005,Electronics,Smart Watch,310.68
+C024,Aisha Ndlovu,O0050,P002,Electronics,Wireless Earbuds,1756.98
+C014,Ayanda Mokoena,O0051,P008,Home,Desk Lamp,88.05
+C023,Pieter Coetzee,O0052,P018,Beauty,Perfume,3560.60
+C040,Michael Els,O0053,P005,Electronics,Smart Watch,207.12
+C011,Nomvula Coetzee,O0054,P006,Home,Coffee Mug,2801.56
+C002,Naledi Dlamini,O0055,P006,Home,Coffee Mug,2101.17
+C027,Chloe Dlamini,O0056,P008,Home,Desk Lamp,176.10
+C045,Grace Van der Merwe,O0057,P004,Electronics,USB-C Cable,151.71
+C031,Michael Naidoo,O0058,P008,Home,Desk Lamp,352.20
+C023,Pieter Coetzee,O0059,P010,Home,Kitchen Scale,291.88
+C015,David Fourie,O0060,P001,Electronics,Bluetooth Speaker,2175.14
+C026,Pieter Botha,O0061,P011,Fashion,Sneakers,155.49
+C050,Fatima Sithole,O0062,P009,Home,Storage Box,4363.90
+C026,Pieter Botha,O0063,P018,Beauty,Perfume,890.15
+C008,Lerato Fourie,O0064,P009,Home,Storage Box,4363.90
+C017,Naledi Coetzee,O0065,P002,Electronics,Wireless Earbuds,2928.30
+C028,Naledi Fourie,O0066,P012,Fashion,Denim Jacket,345.54
+C028,Naledi Fourie,O0067,P020,Beauty,Face Mask,725.36
+C025,Kagiso Van der Merwe,O0068,P019,Beauty,Lip Balm,3204.81
+C003,Sipho Els,O0069,P014,Fashion,Sunglasses,3279.25
+C035,Ayanda Coetzee,O0070,P007,Home,Throw Blanket,2956.20
+C005,Michael Els,O0071,P011,Fashion,Sneakers,466.47
+C043,Karabo Nkosi,O0072,P004,Electronics,USB-C Cable,455.13
+C033,Sam Van der Merwe,O0073,P010,Home,Kitchen Scale,583.76
+C021,Naledi Dlamini,O0074,P013,Fashion,Backpack,1350.24
+C036,Ayanda Ndlovu,O0075,P005,Electronics,Smart Watch,414.24
+C043,Karabo Nkosi,O0076,P013,Fashion,Backpack,900.16
+C040,Michael Els,O0077,P019,Beauty,Lip Balm,4273.08
+C036,Ayanda Ndlovu,O0078,P001,Electronics,Bluetooth Speaker,3262.71
+C014,Ayanda Mokoena,O0079,P014,Fashion,Sunglasses,3279.25
+C039,Lerato Khumalo,O0080,P011,Fashion,Sneakers,621.96
+C029,Kagiso Fourie,O0081,P007,Home,Throw Blanket,2956.20
+C048,Lerato Mokoena,O0082,P006,Home,Coffee Mug,700.39
+C019,Nomvula Pretorius,O0083,P017,Beauty,Moisturizer,3419.70
+C022,Kagiso Mbeki,O0084,P003,Electronics,Power Bank,715.30
+C044,Fatima Botha,O0085,P010,Home,Kitchen Scale,291.88
+C010,Zanele Van der Merwe,O0086,P001,Electronics,Bluetooth Speaker,2175.14
+C031,Michael Naidoo,O0087,P020,Beauty,Face Mask,725.36
+C030,Sarah Pretorius,O0088,P014,Fashion,Sunglasses,3279.25
+C013,Zanele Mbeki,O0089,P013,Fashion,Backpack,1800.32
+C016,Naledi Ndlovu,O0090,P005,Electronics,Smart Watch,103.56
+C049,David Mbeki,O0091,P004,Electronics,USB-C Cable,606.84
+C015,David Fourie,O0092,P006,Home,Coffee Mug,3501.95
+C030,Sarah Pretorius,O0093,P002,Electronics,Wireless Earbuds,1171.32
+C008,Lerato Fourie,O0094,P015,Fashion,Cap,1567.56
+C043,Karabo Nkosi,O0095,P017,Beauty,Moisturizer,3419.70
+C021,Naledi Dlamini,O0096,P015,Fashion,Cap,1959.45
+C028,Naledi Fourie,O0097,P018,Beauty,Perfume,1780.30
+C048,Lerato Mokoena,O0098,P016,Beauty,Shampoo,1870.98
+C049,David Mbeki,O0099,P008,Home,Desk Lamp,264.15
+C050,Fatima Sithole,O0100,P017,Beauty,Moisturizer,1367.88
+C018,Kagiso Naidoo,O0101,P015,Fashion,Cap,1175.67
+C016,Naledi Ndlovu,O0102,P009,Home,Storage Box,2618.34
+C035,Ayanda Coetzee,O0103,P003,Electronics,Power Bank,715.30
+C015,David Fourie,O0104,P013,Fashion,Backpack,900.16
+C046,Sipho Ndlovu,O0105,P007,Home,Throw Blanket,2956.20
+C027,Chloe Dlamini,O0106,P011,Fashion,Sneakers,621.96
+C027,Chloe Dlamini,O0107,P002,Electronics,Wireless Earbuds,2342.64
+C025,Kagiso Van der Merwe,O0108,P019,Beauty,Lip Balm,1068.27
+C049,David Mbeki,O0109,P019,Beauty,Lip Balm,4273.08
+C001,Zanele Nkosi,O0110,P012,Fashion,Denim Jacket,460.72
+C027,Chloe Dlamini,O0111,P018,Beauty,Perfume,4450.75
+C039,Lerato Khumalo,O0112,P008,Home,Desk Lamp,176.10
+C018,Kagiso Naidoo,O0113,P014,Fashion,Sunglasses,655.85
+C025,Kagiso Van der Merwe,O0114,P011,Fashion,Sneakers,621.96
+C047,Johan Mahlangu,O0115,P006,Home,Coffee Mug,2801.56
+C009,Kagiso Dlamini,O0116,P020,Beauty,Face Mask,725.36
+C026,Pieter Botha,O0117,P019,Beauty,Lip Balm,1068.27
+C006,David Fourie,O0118,P014,Fashion,Sunglasses,2623.40
+C012,Aisha Fourie,O0119,P002,Electronics,Wireless Earbuds,2342.64
+C021,Naledi Dlamini,O0120,P007,Home,Throw Blanket,2217.15
+C022,Kagiso Mbeki,O0121,P013,Fashion,Backpack,1800.32
+C017,Naledi Coetzee,O0122,P003,Electronics,Power Bank,357.65
+C048,Lerato Mokoena,O0123,P018,Beauty,Perfume,2670.45
+C015,David Fourie,O0124,P003,Electronics,Power Bank,357.65
+C049,David Mbeki,O0125,P001,Electronics,Bluetooth Speaker,2175.14
+C013,Zanele Mbeki,O0126,P001,Electronics,Bluetooth Speaker,2175.14
+C016,Naledi Ndlovu,O0127,P005,Electronics,Smart Watch,103.56
+C037,Zanele Mokoena,O0128,P007,Home,Throw Blanket,2217.15
+C050,Fatima Sithole,O0129,P012,Fashion,Denim Jacket,575.90
+C039,Lerato Khumalo,O0130,P004,Electronics,USB-C Cable,303.42
+C020,Sipho Els,O0131,P004,Electronics,USB-C Cable,151.71
+C020,Sipho Els,O0132,P019,Beauty,Lip Balm,4273.08
+C026,Pieter Botha,O0133,P007,Home,Throw Blanket,3695.25
+C045,Grace Van der Merwe,O0134,P008,Home,Desk Lamp,264.15
+C044,Fatima Botha,O0135,P020,Beauty,Face Mask,725.36
+C037,Zanele Mokoena,O0136,P002,Electronics,Wireless Earbuds,2928.30
+C028,Naledi Fourie,O0137,P012,Fashion,Denim Jacket,575.90
+C042,Michael Mbeki,O0138,P011,Fashion,Sneakers,621.96
+C032,Zanele Dlamini,O0139,P004,Electronics,USB-C Cable,455.13
+C041,Nomvula Ndlovu,O0140,P015,Fashion,Cap,783.78
+C028,Naledi Fourie,O0141,P006,Home,Coffee Mug,3501.95
+C042,Michael Mbeki,O0142,P009,Home,Storage Box,4363.90
+C050,Fatima Sithole,O0143,P016,Beauty,Shampoo,2494.64
+C047,Johan Mahlangu,O0144,P019,Beauty,Lip Balm,3204.81
+C016,Naledi Ndlovu,O0145,P003,Electronics,Power Bank,1430.60
+C016,Naledi Ndlovu,O0146,P015,Fashion,Cap,1959.45
+C043,Karabo Nkosi,O0147,P013,Fashion,Backpack,450.08
+C032,Zanele Dlamini,O0148,P011,Fashion,Sneakers,621.96
+C014,Ayanda Mokoena,O0149,P012,Fashion,Denim Jacket,345.54
+C022,Kagiso Mbeki,O0150,P009,Home,Storage Box,4363.90
